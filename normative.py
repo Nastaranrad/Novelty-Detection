@@ -28,7 +28,6 @@ thresholds = [0.5,0.6,0.7,0.8,0.9]
 DropLevel = [0.1]
 
 
-subNum = 8
 baseDIR = 'the root directory for saving results'
 #%%
 def extreme_value_prob_fit(NPM, perc):
