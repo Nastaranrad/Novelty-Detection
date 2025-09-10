@@ -2,7 +2,7 @@
 
 This project explores **deep normative modeling** for detecting abnormal human movements based on Inertial Measurement Unit (IMU) data. The approach is inspired by the following paper:
 
-*Mohammadian Rad, N.; Van Laarhoven, T.; Furlanello, C.; Marchiori, E. Novelty Detection using Deep Normative Modeling for IMU-Based Abnormal Movement Monitoring in Parkinson’s Disease and Autism Spectrum Disorders. Sensors 2018, 18(10), 3533.* :contentReference[oaicite:1]{index=1}
+*Mohammadian Rad, N.; Van Laarhoven, T.; Furlanello, C.; Marchiori, E. Novelty Detection using Deep Normative Modeling for IMU-Based Abnormal Movement Monitoring in Parkinson’s Disease and Autism Spectrum Disorders. Sensors 2018, 18(10), 3533.* 
 
 ---
 
