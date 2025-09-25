@@ -32,7 +32,7 @@ The workflow of the method—data encoding, latent representation, normative thr
 ### Figure 3: Detection Performance
 This chart compares the proposed normative model to baseline methods (e.g. one-class SVM and reconstruction-based novelty detection) using ROC curves:
 - The **blue curve** corresponds to the normative model.
-- It outperforms baseline approaches in detecting deviations effectively, with higher true positive rates for a given false positive rate.
+- It outperforms baseline approaches in detecting deviations effectively, with higher true positive rates for a given false positive rate (See subject 1).
 
 ![Figure 3: Performance Evaluation (ROC curves)](sensors-3.png)
 
